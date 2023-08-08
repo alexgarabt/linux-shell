@@ -17,6 +17,9 @@ cd linux-shell
 # Step 2: Compile it.
 make
 
+# To clean the compiled and middle files.
+make clean
+
 # Step 3: Use Interactive or Batch mode.
 
 # Interative mode.
