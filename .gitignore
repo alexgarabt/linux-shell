@@ -53,3 +53,6 @@ dkms.conf
 
 #visual code editor files
 .vscode
+
+#Ignore the compiled project.
+UVash
