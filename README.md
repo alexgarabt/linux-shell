@@ -29,7 +29,7 @@ make clean
 ./UVash filename
 ```
 # Test it. 
-There are some prepared test cases, to run it you must have the programm compiled.
+There are some prepared test cases, to run it you must have the program compiled.
 ```bash
 ./test-UVash.sh -c
 ```
