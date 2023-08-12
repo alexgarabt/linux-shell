@@ -56,3 +56,5 @@ dkms.conf
 
 #Ignore the compiled project.
 UVash
+# Program out for test
+tests-out/

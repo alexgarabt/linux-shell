@@ -28,7 +28,7 @@ make clean
 # Batch mode. (filename is the file with the commands to run).
 ./UVash filename
 ```
-# Test it (Now doesnt work, so wait until be fixed)
+# Test it. 
 There are some prepared test cases, to run it you must have the programm compiled.
 ```bash
 ./test-UVash.sh -c
